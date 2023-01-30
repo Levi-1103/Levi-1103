@@ -1,4 +1,1 @@
 - 👋 Hi, I’m Levi
-- I'm a Games student whos interested in web and mobile development
-- Slowly learning full stack dev next to uni
-- I'll post here any personal projects I finally manage to complete
