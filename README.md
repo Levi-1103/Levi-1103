@@ -1,1 +1,2 @@
 - 👋 Hi, I’m Levi
+- I'm still in the process of uploading/adding some of my current and past projects
